@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vue 3, Laravel, Flutter and Figma.**
 
-- 💬 Ask me about **Vue, Tailwind, Figma.**
+- 💬 Ask me about **Vue JS, Tailwind CSS, Figma.**
 
 - 📫 How to reach me **jonahsetiawan@gmail.com**
 
