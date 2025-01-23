@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihanzyy&label=Profile%20views&color=0e75b6&style=plastic" alt="ihanzyy" /> </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ihanzyy&theme=dark&border_radius=5&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [Clazzsite](https://github.com/iHanzyy/PKK-Project)
