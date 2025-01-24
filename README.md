@@ -1,3 +1,6 @@
+<div align = "center">
+    <img src="./anime-elf.gif" alt="Anime Elf GIF">
+</div>
 <h1 align="center">Hi 👋, I'm Mohammad Jonah Setiawan</h1>
 <h3 align="center">Love-hate relationship with Javascript and PHP</h3>
 
