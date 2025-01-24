@@ -1,12 +1,13 @@
 <div align = "center">
-    <img height= "200" src="./anime-elf.gif" alt="Anime Elf GIF">
+    <img height= "220" src="./anime-elf.gif" alt="Anime Elf GIF">
 </div>
-<h1 align="center">Hi 👋, I'm Mohammad Jonah Setiawan</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Mohammad Jonah Setiawan</h1>
 <h3 align="center">Love-hate relationship with Javascript and PHP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihanzyy&label=Profile%20views&color=0e75b6&style=plastic" alt="ihanzyy" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) 
+<img src="https://wallpapercave.com/wp/wp5543313.jpg" alt="Meliodas" align="right" width="375" height="auto" />
 
 - 🔭 I’m currently working on [Clazzsite](https://github.com/iHanzyy/PKK-Project)
 
