@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihanzyy&label=Profile%20views&color=0e75b6&style=plastic" alt="ihanzyy" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) 
 <img src="https://wallpapercave.com/wp/wp5543313.jpg" alt="Meliodas" align="right" width="375" height="auto" />
 
 - 🔭 I’m currently working on [Clazzsite](https://github.com/iHanzyy/PKK-Project)
