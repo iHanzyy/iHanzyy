@@ -8,11 +8,9 @@
 
 <img src="https://wallpapercave.com/wp/wp5543313.jpg" alt="Meliodas" align="right" width="375" height="auto" />
 
-- 🔭 I’m currently working on [Clazzsite](https://github.com/iHanzyy/PKK-Project)
+- 🌱 I’m currently learning **Vue 3, Laravel, Flutter, React and Figma.**
 
-- 🌱 I’m currently learning **Vue 3, Laravel, Flutter and Figma.**
-
-- 💬 Ask me about **Vue JS, Tailwind CSS, Figma.**
+- 💬 Ask me about **Frontend or Backend**
 
 - 📫 How to reach me **jonahsetiawan@gmail.com**
 
