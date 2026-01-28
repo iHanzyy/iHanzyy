@@ -64,10 +64,6 @@
 ## 📊 Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=iHanzyy&show_icons=true&theme=tokyonight&hide_title=true" height="160" alt="GitHub stats" />
-</p>
-
-<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iHanzyy&show_icons=true&theme=tokyonight&layout=compact" height="160" alt="Top languages" />
 </p>
 
